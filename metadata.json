@@ -1,0 +1,6 @@
+{
+  "name": "Sadbhavna AI",
+  "description": "Sadbhavna AI — Personal Voice AI Assistant with offline & online intelligence, phone actions, reminders, and daily planner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
